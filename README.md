@@ -1,3 +1,10 @@
 # HelloWorld
-First Project
-I wrote a new line!
+
+public class App {
+
+	public static void main(String[] args) {
+
+		System.out.println("Hello world!");
+	}
+
+}
